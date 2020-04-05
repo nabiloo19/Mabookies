@@ -8,7 +8,8 @@
         Mabookie
         <img src="@/assets/know-how.png" width="8%" height="8%" alt="Icon" />
       </h1>
-      <h6 class="text-center">Find all your favourite books in one place!</h6>
+      <h6 class="text-center text-muted">Find all your favourite books in one place!</h6>
+
       <br />
       <div class="input-group mb-3">
         <input

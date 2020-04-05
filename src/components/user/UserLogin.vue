@@ -7,7 +7,8 @@
       class="col-lg-4 mb-4"
       :style="isUser ? 'border-color: #1b9c58;' : 'border-color: #6c757d;'"
     >
-      <h2 class="text-center" :style="isUser ? 'color: #1b9c58;' : 'color: #6c757d;'">Welcome</h2>
+      <h2 class="text-center" :style="isUser ? 'color: #1b9c58;' : 'color: #6c757d;'">Welcome to Mabookie</h2>
+      <h6 class="text-center" :style="isUser ? 'color: #1b9c58;' : 'color: #6c757d;'">For a therapeutic experience!</h6>
       <hr />
       <div class="form-group">
         <label for="exampleInputEmail1">Email address</label>
